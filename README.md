@@ -11,3 +11,4 @@ Code flow-
 6. Passphrase authentication using speech recognition
 7. Options for voting
 8. Storage of voting data in database with AES encryption with UID (UID to ensure that a person can't vote more than once)
+UI prototype contained in 'Figma Design' folder. Flask and React code under development.
