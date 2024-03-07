@@ -1,5 +1,5 @@
 # e-lect
-80-Lectify) Remote voting system that allows users to vote from the comfort of their homes.
+E-Lectify) Remote voting system that allows users to vote from the comfort of their homes.
 A Remote Voting System aims to tackle low voter turnout among internal migrants, NRIs, and soldiers employed overseas. It enables eligible voters to cast their ballots without travelling to their home constituencies, overcoming geographical barriers and enhancing democratic participation. Key components include user-friendly registration, facial recognition authentication, robust data security measures, and transparent result auditing.
 To run the code, the folder must be downloaded on your system and modules/libraries used should be pre-installed.
 Code flow- 
